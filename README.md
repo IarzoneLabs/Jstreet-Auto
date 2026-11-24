@@ -1,4 +1,4 @@
-# JobStreet Auto-Matcher (100% Free Tier / Rp 0)
+# JobStreet Auto-Matcher
 
 ![Preview Web Dashboard](./jobstreet-auto-matcher-share/docs/preview-dashboard.png)
 
