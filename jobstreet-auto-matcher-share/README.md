@@ -2,7 +2,15 @@
 
 Aplikasi otomatisasi pencarian lowongan kerja **JobStreet Indonesia** yang berjalan penuh di server cloud (**tanpa perlu menyalakan laptop**, **tanpa login/OTP JobStreet**, dan **Rp 0 / 100% Free Tier**), dilengkapi Web Dashboard untuk mengunggah CV, mencocokkan CV dengan deskripsi lengkap lowongan, dan melacak lamaran Anda.
 
-> **Baru pertama kali setup?** Buka langsung panduan lengkap langkah demi langkah di **[`PANDUAN_SETUP_LENGKAP.md`](./PANDUAN_SETUP_LENGKAP.md)** (estimasi setup 10–15 menit).
+> **Baru pertama kali setup?** Buka langsung panduan lengkap langkah demi langkah di **[`PANDUAN_SETUP_LENGKAP.md`](./PANDUAN_SETUP_LENGKAP.md)** (estimasi setup 10–15 menit), atau salin prompt siap pakai di **[`PROMPT_UNTUK_AI.md`](./PROMPT_UNTUK_AI.md)** agar AI favorit Anda langsung memandu langkah demi langkah.
+
+---
+
+## Preview Web Dashboard
+
+![Preview Web Dashboard JobStreet Auto-Matcher](./docs/preview-dashboard.png)
+
+*Tampilan dashboard (Dark Mode — tersedia juga Light Mode): menampilkan ringkasan CV & research aktif, status server GitHub Actions, Job Tracker (`Aktif / Disimpan / Sudah Dilamar / Diabaikan`), multi-facet filter, serta ranking lowongan tertinggi lengkap dengan alasan kecocokan & skill.*
 
 ---
 
