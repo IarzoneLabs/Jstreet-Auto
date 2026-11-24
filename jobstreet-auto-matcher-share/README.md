@@ -1,6 +1,6 @@
-# JobStreet Auto-Matcher (100% Free Tier / Rp 0)
+# JobStreet Auto-Matcher
 
-Aplikasi otomatisasi pencarian lowongan kerja **JobStreet Indonesia** yang berjalan penuh di server cloud (**tanpa perlu menyalakan laptop**, **tanpa login/OTP JobStreet**, dan **Rp 0 / 100% Free Tier**), dilengkapi Web Dashboard untuk mengunggah CV, mencocokkan CV dengan deskripsi lengkap lowongan, dan melacak lamaran Anda.
+Aplikasi otomatisasi pencarian lowongan kerja **JobStreet Indonesia** yang berjalan penuh di server cloud (**tanpa perlu menyalakan laptop**, **tanpa login/OTP JobStreet**), dilengkapi Web Dashboard untuk mengunggah CV, mencocokkan CV dengan deskripsi lengkap lowongan, dan melacak lamaran Anda.
 
 > **Baru pertama kali setup?** Buka langsung panduan lengkap langkah demi langkah di **[`PANDUAN_SETUP_LENGKAP.md`](./PANDUAN_SETUP_LENGKAP.md)** (estimasi setup 10–15 menit), atau salin prompt siap pakai di **[`PROMPT_UNTUK_AI.md`](./PROMPT_UNTUK_AI.md)** agar AI favorit Anda langsung memandu langkah demi langkah.
 
